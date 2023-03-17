@@ -10,7 +10,7 @@
 
 ## Connect with me:
 
-![[LinkedIn](https://www.linkedin.com/in/santhana-lakshmi/)](https://user-images.githubusercontent.com/66127023/225913250-af9dd13e-2a2f-4757-9d5a-d76a84006efc.png)
+![[LinkedIn](https://www.linkedin.com/in/santhana-lakshmi/)]
 
 
 
