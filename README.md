@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 Welcome
 
-<!--
-**santhulak/santhulak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I am a Software Testing Engineer in profession looking for transistion into Data Science Career. 
+- 🌱 I specialize in Data science, Machine Learning , Deep Learning and I am proficient in a python programming language. 
+- 👯 I am constantly working on new projects and experimenting with new technologies, so be sure to check back often to see what's new..
+- 🤔 I am always eager to learn new things.
+- 💬 You will find a range of repositories that showcase my  Data Science skills and expertise on my GitHub Profile 
+- 📫If you are interested in collaborating or have any questions, please don't hesitate to reach out. 
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
