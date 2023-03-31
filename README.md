@@ -9,12 +9,13 @@
 - 📫If you are interested in collaborating or have any questions, please don't hesitate to reach out. 
 
 ## Connect with me:
+<table>
+ <tr>
+   <td>[![LinkedIn](https://user-images.githubusercontent.com/66127023/229032692-c14314c5-b34d-48e0-93c3-c43404bcda8d.png)](https://www.linkedin.com/in/santhana-lakshmi/)</td>
 
-[![LinkedIn](https://user-images.githubusercontent.com/66127023/229032692-c14314c5-b34d-48e0-93c3-c43404bcda8d.png)](https://www.linkedin.com/in/santhana-lakshmi/)
-
-[![Github](https://user-images.githubusercontent.com/66127023/229032908-48efbeea-4b40-4cb1-a34a-83aee2ef1fa3.png)](https://github.com/santhulak)
-
-
+<td>[![Github](https://user-images.githubusercontent.com/66127023/229032908-48efbeea-4b40-4cb1-a34a-83aee2ef1fa3.png)](https://github.com/santhulak)</td>
+  </tr>
+</table>
 
 
 
