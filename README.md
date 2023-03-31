@@ -9,14 +9,15 @@
 - 📫If you are interested in collaborating or have any questions, please don't hesitate to reach out. 
 
 ## Connect with me:
-![LinkedIn](https://www.linkedin.com/in/santhana-lakshmi/)
 
 
+
+[![LinkedIn](https://user-images.githubusercontent.com/66127023/229032692-c14314c5-b34d-48e0-93c3-c43404bcda8d.png)](https://www.linkedin.com/in/santhana-lakshmi/)
 
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
 
-![LinkedIn]([https://user-images.githubusercontent.com/66127023/229031744-43224e98-772b-4279-9a1e-e1e455dd3a42.png](https://www.linkedin.com/in/santhana-lakshmi/))
+
 
 
 
