@@ -9,14 +9,14 @@
 - 📫If you are interested in collaborating or have any questions, please don't hesitate to reach out. 
 
 ## Connect with me:
-(https://www.linkedin.com/in/santhana-lakshmi/)
+![LinkedIn](https://www.linkedin.com/in/santhana-lakshmi/)
 
 
 
 
 
 
-![LinkedIn]([https://user-images.githubusercontent.com/66127023/229031744-43224e98-772b-4279-9a1e-e1e455dd3a42.png](https://www.linkedin.com/in/santhana-lakshmi/))
+([https://user-images.githubusercontent.com/66127023/229031744-43224e98-772b-4279-9a1e-e1e455dd3a42.png](https://www.linkedin.com/in/santhana-lakshmi/))
 
 
 
